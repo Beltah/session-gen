@@ -59,26 +59,26 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id, { text: '' + b64data });
 	
 				   let FLASH_MD_TEXT = `
-*_Qr Code By Rhodvick tech_*
-*_Made With ☣_*
+*_Qr Code By BELTAH TECH _*
+*_Made With ☣toxic ai*
 ______________________________________
 ╔════◇
-║ *『 RHODVICK TECH LATEST AI 』*
+║ *『 BELTAH TECH LATEST AI 』*
 ║ _Deploy your bot now to enjoy the commands._
 ╰═════════════⊷
 ╔═════◇
-║  『••• OWNER INFO•••』
-║❒ *Instagram:* _https://www.instagram.com/rhodvickjunior?igsh=YzljYTk1ODg3Zg==_
-║❒ *Owner:* _https://wa.me/254115790827_
-║❒ *Repo:* _https://github.com/Rhodvick/RHODVICK-AI_
-║❒ *WaGroup:* _https://chat.whatsapp.com/Dc7OCtGmAI2BNtkKbGSJy_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D_
-║❒ *YouTube:* _https://www.youtube.com/@Rhodvick
+║  『••• Beltah tech INFO•••』
+║❒ *Instagram:* _@audibeltah_
+║❒ *Owner:* _https://wa.me/254114141192_
+║❒ *Repo:* _https://github.com/Beltah/session-gen_
+║❒ *WaGroup:* _https://chat.whatsapp.com/KtmfQannWn4IAVSlK6u0k9_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_
+║❒ °All thanks to Beltah Tech 
 ╰═════════════⊷ 
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
-	 await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
+	 await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id,{text:BELTAH_MD_TEXT},{quoted:session})
 
 
 
